@@ -1,5 +1,6 @@
 OpenYeller Part1  
 _More info on the project_: [OpenYeller](https://github.com/matthieu-vincke/OpenYeller.com)
+
 ---
 # First Swagger microservice, Docker container creation and autobuild
 

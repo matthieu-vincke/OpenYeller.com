@@ -20,24 +20,22 @@ Serie of articles to explain the creation / unit tests and deployment of OpenYel
 
 
 ```
-|-- OpenYeller
-  |-- Microservices
-    |-- UserManager
-      |-- api    
-        |--
-      |-- config    
-        |--
-      |-- test    
-        |--
-      |-- node_modules  
-        |--
-      |-- app.js
-      |-- package.json  
-      |-- Dockerfile
-  |-- Interface
-    |--
-  |-- node_modules
-    |--
+|-- Articles
+|--Part1
+  |-- OpenYeller
+    |-- Microservices
+      |-- UserManager
+        |-- api    
+          |--
+        |-- config    
+          |--
+        |-- test    
+          |--
+        |-- node_modules  
+          |--
+        |-- app.js
+        |-- package.json  
+        |-- Dockerfile
 
 ```
 
